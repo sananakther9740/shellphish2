@@ -13,7 +13,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/sananakther9740/shellphish
 cd shellphish
 bash shellphish.sh
-```
+```   
